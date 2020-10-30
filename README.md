@@ -2,6 +2,7 @@
 
 ![https://github-readme-stats.vercel.app/api?username=cjavad&show_icons=true&theme=cobalt&count_private=true](https://github-readme-stats.vercel.app/api?username=cjavad&show_icons=true&theme=cobalt&count_private=true)
 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cjavad&langs_count=10&layout=compact)
 
 ### Hi there 👋
 
