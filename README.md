@@ -1,6 +1,6 @@
 ![Profile views](https://gpvc.arturio.dev/cjavad)
 
-![https://github-readme-stats.vercel.app/api?username=cjavad&show_icons=true&theme=cobalt](https://github-readme-stats.vercel.app/api?username=cjavad&show_icons=true&theme=cobalt)
+![https://github-readme-stats.vercel.app/api?username=cjavad&show_icons=true&theme=cobalt&count_private=true](https://github-readme-stats.vercel.app/api?username=cjavad&show_icons=true&theme=cobalt&count_private=true)
 
 
 ### Hi there 👋
