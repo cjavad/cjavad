@@ -35,7 +35,7 @@
 
 ## ⚡ Fun fact: ...
 
-> My height is the 40th prime number in cm's, give or take.
+> My height is the 40th prime number in cm, give or take.
 
 ## 💻 Technologies i use
 
