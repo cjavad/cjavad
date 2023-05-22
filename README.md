@@ -107,9 +107,8 @@
 
 
 ## 📊 Statistics
-
-![Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=cjavad&langs_count=10&layout=compact&theme=cobalt)
-![Stats](https://github-readme-stats.vercel.app/api?username=cjavad&show_icons=true&theme=cobalt&count_private=true)
+![Stats](https://github-readme-stats-weld-two-73.vercel.app/api/top-langs/?username=cjavad&langs_count=10&layout=compact&theme=cobalt)
+![Stats](https://github-readme-stats-weld-two-73.vercel.app/api?username=cjavad&show_icons=true&theme=cobalt&count_private=true)
 
 <!--
 **cjavad/cjavad** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
