@@ -17,7 +17,7 @@
 
 ## 👯 I’m looking to collaborate on ...
 
-> Anything programmering related :)
+> Anything programming related :)
 
 ## 🤔 I’m looking for help with ...
 
