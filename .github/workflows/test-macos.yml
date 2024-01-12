@@ -4,6 +4,7 @@ on: [workflow_dispatch]
 
 jobs:
   build:
+    timeout-minutes: 60
     runs-on: macos-13-xlarge
     steps:
     - name: Run a one-line script
