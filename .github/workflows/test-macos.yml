@@ -1,0 +1,12 @@
+name: HelloWorld Workflow
+
+on: [workflow_dispatch]
+
+jobs:
+  build:
+    runs-on: macos-latest-xlarge
+    steps:
+    - name: Run a one-line script
+      shell: bash
+      run: echo HelloWorld
+
